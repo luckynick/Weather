@@ -1,0 +1,3 @@
+58c505a2e379ef97
+WinWeather
+http://api.wunderground.com/api/58c505a2e379ef97/astronomy/conditions/planner_12200111/q/Ukraine/Sumy.json
